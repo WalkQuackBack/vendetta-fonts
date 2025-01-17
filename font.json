@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Geist",
+    "previewText": "Geist",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RHOQ4nZPdy1U.ttf",
+        "ggsans-Bold": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nZPdy1U.ttf",
+        "ggsans-BoldItalic": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nZPdy1U.ttf",
+        "ggsans-ExtraBold": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RHOQ4nZPdy1U.ttf",
+        "ggsans-ExtraBoldItalic": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RHOQ4nZPdy1U.ttf",
+        "ggsans-Medium": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RruM4nZPdy1U.ttf",
+        "ggsans-MediumItalic": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RruM4nZPdy1U.ttf",
+        "ggsans-Normal": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nZPdy1U.ttf",
+        "ggsans-NormalItalic": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nZPdy1U.ttf",
+        "ggsans-Semibold": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nZPdy1U.ttf",
+        "ggsans-SemiboldItalic": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nZPdy1U.ttf",
+        "NotoSans-Bold": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_Re-Q4nZPdy1U.ttf",
+        "NotoSans-ExtraBold": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RHOQ4nZPdy1U.ttf",
+        "NotoSans-Medium": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RruM4nZPdy1U.ttf",
+        "NotoSans-Normal": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nZPdy1U.ttf",
+        "NotoSans-NormalItalic": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RnOM4nZPdy1U.ttf",
+        "NotoSans-Semibold": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nZPdy1U.ttf",
+        "SourceCodePro-Semibold": "https://fonts.gstatic.com/s/geist/v1/gyBhhwUxId8gMGYQMKR3pzfaWI_RQuQ4nZPdy1U.ttf"
+    }
+}
