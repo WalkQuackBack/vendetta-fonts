@@ -3,16 +3,16 @@
     "name": "NotoSans",
     "previewText": "Noto Sans",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
-        "ggsans-Bold": "https://fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
-        "ggsans-BoldItalic": "https://fonts.gstatic.com/s/notosans/v39/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtuXOmHS91iw.woff2",
-        "ggsans-ExtraBold": "https://fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
-        "ggsans-ExtraBoldItalic": "https://fonts.gstatic.com/s/notosans/v39/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtuXOmHS91iw.woff2",
-        "ggsans-Medium": "https://fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
-        "ggsans-MediumItalic": "https://fonts.gstatic.com/s/notosans/v39/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtuXOmHS91iw.woff2",
-        "ggsans-Normal": "https://fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
-        "ggsans-NormalItalic": "https://fonts.gstatic.com/s/notosans/v39/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtuXOmHS91iw.woff2",
-        "ggsans-Semibold": "https://fonts.gstatic.com/s/notosans/v39/o-0bIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjc5a7du3mhPy0.woff2",
-        "ggsans-SemiboldItalic": "https://fonts.gstatic.com/s/notosans/v39/o-0ZIpQlx3QUlC5A4PNr4C5OaxRsfNNlKbCePevtuXOmHS91iw.woff2"
+        "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-800-normal.ttf",
+        "ggsans-Bold": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-700-normal.ttf",
+        "ggsans-BoldItalic": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-700-italic.ttf",
+        "ggsans-ExtraBold": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-800-normal.ttf",
+        "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-800-italic.ttf",
+        "ggsans-Medium": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-500-normal.ttf",
+        "ggsans-MediumItalic": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-500-italic.ttf",
+        "ggsans-Normal": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-400-normal.ttf",
+        "ggsans-NormalItalic": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-400-italic.ttf",
+        "ggsans-Semibold": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-600-normal.ttf",
+        "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/npm/@fontsource/noto-sans@5.0.18/files/noto-sans-latin-600-italic.ttf"
     }
 }
