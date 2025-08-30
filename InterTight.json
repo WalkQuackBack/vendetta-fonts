@@ -3,6 +3,7 @@
     "name": "InterTight",
     "previewText": "Inter Tight",
     "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-Black.ttf",
         "ggsans-Bold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-Bold.ttf",
         "ggsans-BoldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-BoldItalic.ttf",
         "ggsans-ExtraBold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-ExtraBold.ttf",
@@ -10,6 +11,7 @@
         "ggsans-Medium": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-Medium.ttf",
         "ggsans-MediumItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-MediumItalic.ttf",
         "ggsans-Normal": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-RegularItalic.ttf",
         "ggsans-Semibold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-SemiBold.ttf",
         "ggsans-SemiboldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/InterTight/InterTight-SemiBoldItalic.ttf",
     }
