@@ -1,0 +1,18 @@
+{
+    "spec": 1,
+    "name": "NotoSansSemiCondensed",
+    "previewText": "Noto Sans Semi Condensed",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans_SemiCondensed-SemiBoldItalic.ttf"
+    }
+}
