@@ -1,0 +1,18 @@
+{
+    "spec": 1,
+    "name": "Inter",
+    "previewText": "Inter",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-ExtraBold.ttf",
+        "ggsans-Bold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-Medium.ttf",
+        "ggsans-MediumItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-MediumItalic.ttf",
+        "ggsans-Normal": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-Regular.ttf",
+        "ggsans-NormalItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-Italic.ttf",
+        "ggsans-Semibold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/Inter/Inter-SemiBoldItalic.ttf"
+    }
+}
