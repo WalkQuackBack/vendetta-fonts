@@ -3,16 +3,16 @@
     "name": "NotoSans",
     "previewText": "Noto Sans",
     "main": {
-        "ABCGintoNord-ExtraBold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-ExtraBold.ttf",
-        "ggsans-Bold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-Bold.ttf",
-        "ggsans-BoldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-BoldItalic.ttf",
-        "ggsans-ExtraBold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-ExtraBold.ttf",
-        "ggsans-ExtraBoldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-ExtraBoldItalic.ttf",
-        "ggsans-Medium": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-Medium.ttf",
-        "ggsans-MediumItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-MediumItalic.ttf",
-        "ggsans-Normal": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-Regular.ttf",
-        "ggsans-NormalItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-Italic.ttf",
-        "ggsans-Semibold": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-SemiBold.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/WalkQuackBack/vendetta-fonts/raw/refs/heads/main/fonts/NotoSans/NotoSans-SemiBoldItalic.ttf"
+        "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-ExtraBold.ttf",
+        "ggsans-Bold": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-Bold.ttf",
+        "ggsans-BoldItalic": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-ExtraBold.ttf",
+        "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-ExtraBoldItalic.ttf",
+        "ggsans-Medium": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-Medium.ttf",
+        "ggsans-MediumItalic": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-MediumItalic.ttf",
+        "ggsans-Normal": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-Regular.ttf",
+        "ggsans-NormalItalic": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-Italic.ttf",
+        "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/gh/WalkQuackBack/vendetta-fonts/fonts/NotoSans/NotoSans-SemiBoldItalic.ttf"
     }
 }
